@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+  font-weight: bolder;
+  font-size: large;
+  margin-top: 20%;
+}
+
+.button{
+  margin-left: 5px;
+  color: blueviolet;
+  font-size: large;
+  font-weight: bold;
+}
+
+.header{
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: xx-large;
+  color: white;
+}
+
+
