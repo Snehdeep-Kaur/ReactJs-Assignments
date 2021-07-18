@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  background-color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+  font-weight: bolder;
+  font-size: large;
+  margin-top: 2%;
+}
+
+.button{
+  margin-left: 1000px;
+  color: rebeccapurple;
+  font-size: large;
+  font-weight: bold;
+  background-color: aliceblue;
+}
+
+.button2{
+  color: rebeccapurple;
+  font-size: large;
+  font-weight: bold;
+  background-color: aliceblue;
+}
+
+ .icon{
+   color: midnightblue;
+   font-size: 30px;
+ }
+
+ .box{
+   width: auto;
+   height: 175px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: whitesmoke;
+ }
+
+ .grid{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-gap: 15px;
+   background-color: cyan;
+ }
+
