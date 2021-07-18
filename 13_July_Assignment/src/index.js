@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Helloprint from "./App"
+import CounterApp from "./App"
 
 
-ReactDOM.render( <Helloprint />  , document.getElementById("root") )
+ReactDOM.render( <CounterApp />  , document.getElementById("root") )
 
